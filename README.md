@@ -1,21 +1,45 @@
-
-# <h3 align="center" style="weight=100">꧁Ernesto Alonso꧂</h3>
- <h3 align="center" style="weight=100">     Programing </h3>
- <h3 align="center" style="weight=100">          00:07━━━━⬤─────── 02:38</h3> 
- <h3 align="center" style="weight=100">      ⇆ ◁ || ▷↺      </h3> 
-
+<h1 align="center" style="weight=100">꧁Ernesto Alonso꧂</h1>
+<p align="center" style="weight=100">     Developer Full Stack </p>
+<p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
+<p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
 
 
-<p>Hi, I'm Reendering, a like the code </p>
 
-<pre><code>foo→baz→→bim
+
+<pre><code>
+✨ I am a full stack developer where I like code and ethical hacking.✨
 </code></pre>
 
+<!-- **AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+**About me:**
+
+- 🌱 I’m currently learning `more`.
+- 🤔 I’m looking for help with `your friendship`.
+- 📫 How to reach me `ernesto1234alonso123@gmail.com` .
+- ⚡ Ask me about `Angular, React, React Native` or whatever web technology you find here in the icons.
+
+<!-- [ga e gusta ](/bar\* "ti\*tle") -->
 
 
-[foo](/bar\* "ti\*tle")
+<blockquote>
+<p>Description:
+</p>
+</blockquote>
+<blockquote>
+<code>I am a full stack developer with 3 years of experience. I like web and mobile development, but the hacking that I am learning this year, I adapt to many new technologies to learn, because of my desire to learn.</code>
+</blockquote>
 
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="80" height="80" title="*"/><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="80" height="80" title="*"/>
+**Metodology:**
+
+- [x] Extreme Programming XP
+- [x] SCRUM
+- [x] Kanban 
+- [ ] Design Sprint
+
+**Technologies:**
+
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="80" height="80" href="" /><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="80" height="80" title="*"/>
@@ -53,13 +77,13 @@
 <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/strapi_logo_icon_144838.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_logo_icon_146479.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" width="80" height="80" title="*"/>
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_logo_icon_146479.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" width="80" height="80" title="*"/>
 
 
 
 
 
+<h5 align="center" style="weight=100">꧁ Perú - 2021  ꧂</h5>
 
 
 
@@ -67,24 +91,4 @@
 
 
 
-[ref]: /uri
 
-
-`<http://foo.bar.`baz>`
-
-- [ ] foo
-- [x] bar
-<!--
-**AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
