@@ -94,7 +94,7 @@
 
 
 
-<h5 align="center" style="weight=100">꧁ Perú - 2021  ꧂</h5>
+<h5 align="center" style="weight=100">꧁ Perú - 2022  ꧂</h5>
 
 
 
