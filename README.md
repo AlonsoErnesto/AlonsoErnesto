@@ -92,7 +92,7 @@
   
 </div>
 
-![Snake animation](https://github.com/AlonsoErnesto)
+<img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.gif">
 
 
 <h5 align="center" style="weight=100">꧁ Perú - 2022  ꧂</h5>
