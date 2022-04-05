@@ -34,7 +34,11 @@
   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">            
   <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">       
 </div>
-<br>    
+<div align="center">
+  <img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.svg">
+</div>
+
+<br>
        
 **Applied Technologies :**
 
@@ -79,6 +83,7 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" width="80" height="80" title="*"/>
 
 <br>
+
 <div align="center">
   <a href="wa.link/6v221h">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
@@ -91,10 +96,6 @@
   </a>
   
 </div>
-
-<img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.gif">
-
-
 <h5 align="center" style="weight=100">꧁ Perú - 2022  ꧂</h5>
 
 
