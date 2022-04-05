@@ -1,4 +1,4 @@
-<h1 align="center" style="weight=100">꧁Ernesto Alonso꧂</h1>
+<h1 align="center" style="weight=100">꧁Alonso Ernesto꧂</h1>
 <p align="center" style="weight=100">     Developer Full Stack </p>
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
