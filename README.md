@@ -92,6 +92,7 @@
   
 </div>
 
+![Snake animation](https://github.com/AlonsoErnesto)
 
 
 <h5 align="center" style="weight=100">꧁ Perú - 2022  ꧂</h5>
