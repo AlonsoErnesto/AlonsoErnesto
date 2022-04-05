@@ -31,8 +31,8 @@
   </table>
   
 <div>
-  <img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">            
-  <img align="center" height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">       
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">            
+  <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">       
 </div>
 <br>    
        
