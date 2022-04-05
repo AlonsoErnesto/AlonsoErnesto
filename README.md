@@ -3,13 +3,6 @@
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
 
-
-
-
-<pre><code>
-✨ I am a full stack developer where I like code and ethical hacking.✨
-</code></pre>
-
 <!-- **AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 **About me:**
@@ -29,15 +22,21 @@
 <blockquote>
 <code>I am a full stack developer with 3 years of experience. I like web and mobile development, but the hacking that I am learning this year, I adapt to many new technologies to learn, because of my desire to learn.</code>
 </blockquote>
+<br>
 
-**Metodology:**
-
-- [x] Extreme Programming XP
-- [x] SCRUM
-- [x] Kanban 
-- [ ] Design Sprint
-
-**Technologies:**
+**Github Califications**
+<table border="0">
+  <th> <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Restaurantes-App"></th>
+  <th> <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Restaurantes-App"></th>
+  </table>
+  
+<div>
+  <img align="center" height="220em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">            
+  <img align="center" height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">       
+</div>
+<br>    
+       
+**Applied Technologies :**
 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width="80" height="80" href="" /><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="80" height="80" title="*"/>
@@ -79,7 +78,19 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_netlify_icon_130354.png" width="80" height="80" title="*"/>
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/dot_net_original_logo_icon_146546.png" width="80" height="80" title="*"/>
 
-
+<br>
+<div align="center">
+  <a href="wa.link/6v221h">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+  <a href="t.me/+51978775813">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+  </a>
+   <a href="https://mail.google.com/mail/u/0/#inbox?compose=SxfkdpPprDHGBhzbCzfSPjkGPQcFCGzNsdPbMBQnVnJCPRlrMtPQVXLgTpxqbCbQzmDFCWdjnHCVZzpzVjkZWmrxhJrlXnwMSnrsRczXGNgmKdqSgNB">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+</div>
 
 
 
@@ -88,12 +99,6 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 
 
