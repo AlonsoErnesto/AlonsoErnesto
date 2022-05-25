@@ -5,6 +5,9 @@
 
 <!-- **AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p align="center">
+<img width="800px" src="https://github-profile-trophy.vercel.app/?username=AlonsoErnesto&theme=algolia">
+</p>
 **About me:**
 
 - 🌱 I’m currently learning `more`.
@@ -27,13 +30,16 @@
 **Github Califications**
 <table border="0">
   <th> <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Restaurantes-App"></th>
-  <th> <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Restaurantes-App"></th>
+  <th> <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=can-it-be-done-in-react-native"></th>
+  
+  
+  </table align="center">
+  <table border="0">
+  <th>  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">  </th>
+  <th>   <img align="center" height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">  </th>
   </table>
   
-<div>
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true">            
-  <img align="center" height="190em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">       
-</div>
+  
 <div align="center">
   <img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.svg">
 </div>
