@@ -1,4 +1,4 @@
-<h1 align="center" style="weight=100">꧁Alonso Ernesto꧂</h1>
+<h1 align="center" style="weight=100">Alonso Ernesto</h1>
 <p align="center" style="weight=100">     Developer Full Stack </p>
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning `more`.
 - 🤔 I’m looking for help with `your friendship`.
-- 📫 How to reach me `ernesto1234alonso123@gmail.com` .
+- 📫 How to reach me `ernesto134alonso123@gmail.com` .
 - ⚡ Ask me about `Angular, React, React Native` or whatever web technology you find here in the icons.
 
 <!-- [ga e gusta ](/bar\* "ti\*tle") -->
