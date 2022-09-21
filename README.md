@@ -6,7 +6,7 @@
 <!-- **AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p align="center">
-<img width="800px" src="https://github-profile-trophy.vercel.app/?username=AlonsoErnesto&theme=algolia">
+<img width="700px" align="center"  src="https://github-profile-trophy.vercel.app/?username=AlonsoErnesto&theme=algolia">
 </p>
 **About me:**
 
