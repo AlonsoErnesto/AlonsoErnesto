@@ -12,12 +12,12 @@
 <div align="center">
 
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=monte0920" rel="nofollow"><img src="https://github-readme-streak-stats.herokuapp.com?user=AlonsoErnesto&theme=tokyonight&hide_border=true&border_radius=15&locale=es&date_format=j%20M%5B%20Y%5D" alt="trophy" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=monte0920&amp;theme=merko" style="max-width: 100%;"></a></th>
-<
+
 </div>
 
 
 <div>
-<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="260" alt="Ernesto Alonso's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="240" alt="Ernesto Alonso's Dev Card"/></a>
 </a>
 <h3>About me:</h3>
 
