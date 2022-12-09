@@ -22,9 +22,9 @@
 <h3>About me:</h3>
 
 - 🌱 I’m currently learning `more`.
-- 🤔 I’m looking for help with `your friendship`.
+- 🤔 I’m looking for help with `your friendship` with the programming.
 - 📫 How to reach me `ernesto134alonso123@gmail.com` .
-- ⚡ Ask me about `Angular, React, React Native` or whatever web technology you find here in the icons.
+- ⚡ Ask me about `Angular, React, React Native` or whatever web technology you find here.
 
 </div>
 
