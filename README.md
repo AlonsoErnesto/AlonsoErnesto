@@ -45,14 +45,14 @@
 
 <div align="center">
 </br>
-   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Facebook_clone">
-   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Dotfiles2023">
+   <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Facebook_clone">
+   <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Dotfiles2023">
   </div>
 
  <div align="center">
   
-   <img align="center" width="480" src="https://github-readme-stats.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true"> 
-    <img align="center" width="320"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">  
+   <img align="center" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true"> 
+    <img align="center" width="320"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">  
  </div>
   
 <div align="center">
