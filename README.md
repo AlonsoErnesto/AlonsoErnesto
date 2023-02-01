@@ -68,9 +68,9 @@ const ernesto = {
  </div>
  
  </br>
-<div>
-  <img align="right" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218866/GITHUB/git_m3c5kt.png" width="480" alt="Ernesto Alonso's Dev Card"/>
-  <img src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="480" alt="Ernesto Alonso's Dev Card"/>
+<div align="center">
+  <img align="center" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218866/GITHUB/git_m3c5kt.png" width="450" alt="Ernesto Alonso's Dev Card"/>
+  <img align="center" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="450" alt="Ernesto Alonso's Dev Card"/>
 </div>
 </br>
 
