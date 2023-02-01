@@ -2,12 +2,6 @@
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
 
-<!-- **AlonsoErnesto/AlonsoErnesto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- <p align="center"> -->
-<!-- <img width="700px" align="center"  src="https://github-profile-trophy.vercel.app/?username=AlonsoErnesto&theme=algolia"> -->
-<!-- </p> -->
-
 
 <div align="center">
 
@@ -27,10 +21,6 @@
 - ⚡ Ask me about `Angular, React, React Native` or whatever web technology you find here.
 
 </div>
-
-
-
-<!-- [ga e gusta ](/bar\* "ti\*tle") -->
 
 
 <blockquote>
@@ -110,14 +100,6 @@
 <div align="center">
 <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ernesto134x"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ernesto134x" /></a><a href="https://ko-fi.com/https://ko-fi.com/ernestoalonso"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/ernestoalonso" /></a>
 
-
-  <!-- <a href="https://wa.link/glzpci"> -->
-  <!--   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> -->
-  <!-- </a> -->
- 
-   <!-- <a href=""> -->
-   <!--  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
-   <!-- </a> -->
   
 <h5  style="weight=100">꧁ Perú - 2023  ꧂</h5>
 
