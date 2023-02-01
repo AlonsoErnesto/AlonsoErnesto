@@ -68,13 +68,12 @@ const ernesto = {
  </div>
  
  </br>
-<!-- <div>
+<div>
   <img align="right" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218866/GITHUB/git_m3c5kt.png" width="480" alt="Ernesto Alonso's Dev Card"/>
-  <a align="right" href="https://app.daily.dev/jumper21pe"><img align="right"src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="480" alt="Ernesto Alonso's Dev Card"/></a>
+  <img src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="480" alt="Ernesto Alonso's Dev Card"/>
 </div>
 </br>
- 
-  -->
+
 <div align="center">
   <img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.svg">
 </div>
