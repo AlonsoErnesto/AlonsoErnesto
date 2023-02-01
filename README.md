@@ -1,3 +1,4 @@
+ 
 <a align="center" href="https://git.io/typing-svg"><img align="center" width="100%" src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=300&pause=1000&color=8AF3F7&center=true&width=435&height=40&lines=%E2%9A%9B+Software+developer+%E2%9A%9B;%F0%9F%92%BB+WEB+Developer+full+stack+%F0%9F%92%BB;%F0%9F%93%B1+Movil+developer+%F0%9F%93%B1;%F0%9F%9B%A1+White+Hat+%F0%9F%9B%A1" alt="Typing SVG" /></a>
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
@@ -22,6 +23,8 @@
 
 </div>
 
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/album/08JKQ81CmXgF5lID5uiQzA)
+<br/>
 
 <blockquote>
 <p>Description:
@@ -44,7 +47,15 @@
    <img align="center" width="480" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlonsoErnesto&theme=algolia&show_icons=true"> 
     <img align="center" width="320"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlonsoErnesto&layout=compact&langs_count=16&theme=algolia">  
  </div>
-  
+ 
+ </br>
+<div>
+  <img align="right" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218866/GITHUB/git_m3c5kt.png" width="480" alt="Ernesto Alonso's Dev Card"/>
+  <a align="right" href="https://app.daily.dev/jumper21pe"><img align="right"src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="480" alt="Ernesto Alonso's Dev Card"/></a>
+</div>
+</br>
+ 
+ 
 <div align="center">
   <img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.svg">
 </div>
