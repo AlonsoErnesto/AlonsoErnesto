@@ -16,7 +16,7 @@
 </div>
   
 <div>
-<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="350" alt="Ernesto Alonso's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="300" alt="Ernesto Alonso's Dev Card"/></a>
 </a>
 <h3>About me:</h3>
 
