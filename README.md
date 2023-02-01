@@ -3,6 +3,7 @@
 <p  align="center" >
 <img width="500" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
+  
 
 <p align="center" style="weight=100">          03:01 ━━━━⬤─────── 14:08</p> 
 <p align="center" style="weight=100">      ⇆   ◁   ||   ▷  ↺      </p> 
@@ -15,16 +16,15 @@
 </div>
   
 <div>
-<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="300" alt="Ernesto Alonso's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/jumper21pe"><img align="right" src="https://api.daily.dev/devcards/99b645d30ec1492cadf3e43b4906bc42.png?r=wbd" width="350" alt="Ernesto Alonso's Dev Card"/></a>
 </a>
 <h3>About me:</h3>
 
 
 ```javascript
 const ernesto = {
-    pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS, Typescript, C#, Python],
-    askMeAbout: ["web dev", "movil dev", "hacking", "music"],
+    code: [Javascript, HTML, CSS, C#, Python],
+    askMeAbout: ["web dev", "movil dev", "hacking"],
     technologies: {
         frontEnd: {
             js : ["ReactJS","NextJS","Gatsby"],
@@ -41,18 +41,8 @@ const ernesto = {
 
 </div>
 
-<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
-<br/> -->
+   [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
 
-<blockquote>
-<p>Description:
-</p>
-</blockquote>
-<blockquote>
-<code>I am a full stack developer with 3 years of experience. I like web and mobile development, but the hacking that I am learning this year, I adapt to many new technologies to learn, because of my desire to learn.</code>
-</blockquote>
-  </br>
-  </br>
 
 <div align="center">
 </br>
