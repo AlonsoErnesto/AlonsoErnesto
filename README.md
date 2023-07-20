@@ -118,10 +118,6 @@ const ernesto = {
 <br>
 
 
-<div align="center">
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ernesto134x"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ernesto134x" /></a><a href="https://ko-fi.com/https://ko-fi.com/ernestoalonso"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/ernestoalonso" /></a>
-
-  
 <h5  style="weight=100">꧁ Perú - 2023  ꧂</h5>
 
 </div>
