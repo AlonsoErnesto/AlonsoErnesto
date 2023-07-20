@@ -117,8 +117,9 @@ const ernesto = {
 
 <br>
 
-
+<div align="center">
 <h5  style="weight=100">꧁ Perú - 2023  ꧂</h5>
+</div>
 
 </div>
 
