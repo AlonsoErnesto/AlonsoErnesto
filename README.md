@@ -44,7 +44,7 @@ const ernesto = {
    [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
 
 
-<div align="center">s
+<div align="center">
 </br>
    <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Facebook_clone">
    <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Dotfiles2023">
