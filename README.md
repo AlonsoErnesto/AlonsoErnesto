@@ -44,7 +44,7 @@ const ernesto = {
    [![Spotify](https://github-readme-remake.vercel.app/api/spotify)]()
 
 
-<div align="center">
+<div align="center">s
 </br>
    <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Facebook_clone">
    <img align="center" width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=AlonsoErnesto&theme=algolia&repo=Dotfiles2023">
@@ -57,15 +57,10 @@ const ernesto = {
  </div>
  
  </br>
-<div align="center">
-  <img align="center" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218866/GITHUB/git_m3c5kt.png" width="400" alt="Ernesto Alonso's Dev Card"/>
-  <img align="center" src="https://res.cloudinary.com/djbbxqxvj/image/upload/v1675218865/GITHUB/git2_r4oexh.png" width="400" alt="Ernesto Alonso's Dev Card"/>
-</div>
+
 </br>
 
-<div align="center">
-  <img src="https://github.com/AlonsoErnesto/AlonsoErnesto/blob/output/github-contribution-grid-snake.svg">
-</div>
+
 
 <br>
 
