@@ -1,6 +1,6 @@
 ### Hi there, I'm Ernesto Alonso👋<div align = 'right'> [![GitHub alonsoernesto stars](https://img.shields.io/github/stars/alonsoernesto?label=stars&style=social)](https://github.com/alonsoernesto) [![GitHub alonsoernesto follower](https://img.shields.io/github/followers/alonsoernesto?label=follow&style=social)](https://github.com/alonsoernesto) ![GitHub alonsoernesto stars](https://visitor-badge.laobi.icu/badge?page_id=AlonsoErnesto) </div>
 
-I'm a Software Engineer {;} | Web developer and StartUp Enthusiast | Terraform, Java, Python, Javascript and Typescript Lover!!
+I'm a Software Engineer {;} | Web developer and StartUp Enthusiast | Terraform, Java, C#, Javascript and Typescript Lover!!
 
 - 🖥️ I’m currently working as a Frontend Developer, focusing on creating modular, implementing microfrontend architectures, and delivering seamless user experiences with modern frameworks and tools.
 - 🔭 I’m currently working as a Backend Developer and DevOps Engineer, focusing on building resilient systems, implementing CI/CD pipelines, testing, and exploring architectural solutions.
